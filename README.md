@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Amazon clon React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Fire base diployied
 
-## Available Scripts
+# check the link
+
+# https://clone-c3e9a.web.app/
 
 In the project directory, you can run:
 
